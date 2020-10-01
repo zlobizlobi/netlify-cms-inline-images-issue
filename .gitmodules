@@ -1,0 +1,3 @@
+[submodule "netlify-cms-inline-images-submodule"]
+	path = netlify-cms-inline-images-submodule
+	url = git@github.com:zlobizlobi/netlify-cms-inline-images-submodule.git
